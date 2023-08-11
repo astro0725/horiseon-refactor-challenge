@@ -17,8 +17,8 @@ In this assignment, I added HTML semantics and refactored the CSS file to be mor
 * <b>CSS Files were Refactored</b>: CSS file was condensed to get rid of the repetition and appropriate replacements were set in place
 ---
 ## Screenshots 
-
-![All updates dealt with the internal files so there is no notable differences in the website itself.](https://github.com/astro0725/horiseon-refactor-challenge/blob/main/assets/screenshots/horiseon-webpage.png)
+All updates dealt with the internal files so there is no notable differences in the website itself.
+![Horiseon](https://github.com/astro0725/horiseon-refactor-challenge/blob/main/assets/screenshots/horiseon-webpage.png)
 ---
 ## Credits
 Thank you to [Nick Tsung](https://github.com/nicktsung) for helping me with identifying different sections in the HTML and pointing out redundancies I missed.
