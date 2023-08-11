@@ -73,6 +73,7 @@ a {
     display: inline-block;
     margin-left: 20px;
 }
+
 /* Condensed the following: Search Engine Optimization, Online Reputation Management, and Social Media Marketing */
 .services-card {
     margin-bottom: 20px;
@@ -126,6 +127,6 @@ a {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
